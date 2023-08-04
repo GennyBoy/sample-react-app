@@ -40,6 +40,9 @@ Instead, it will copy all the configuration files and the transitive dependencie
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
 ## Running Playwright tests
+Run the command `cd e2e` and navigate yourself to `e2e` directory.
+Then run the below commands depending on which test/tests you want to run.
+
 ### `npx playwright test`
 Runs all tests
 
